@@ -58,10 +58,11 @@ Model chosen because it is:
 ### **4. Model Evaluation**
 The model was evaluated using:
 
+- **Gains and Lift Charts**  
 - **Precision / Recall**  
 - **Confusion Matrix**  
 - **Classification Report**  
-- **Probability Threshold Analysis**  
+- **Accuracy Score**  
 
 ### **5. Interpretation**
 - Coefficients were converted into **odds ratios**  
@@ -74,10 +75,10 @@ The model was evaluated using:
 
 This ML model helps lenders understand:
 
-- Which loans are too risky  
-- Which borrower/business characteristics matter most  
-- How approval thresholds affect revenue vs. risk  
-- How to design smarter lending policies  
+- Which loans are too risky?
+- Which borrower/business characteristics matter most?
+- How approval thresholds affect revenue vs. risk?
+- How to design smarter lending policies?
 
 It also demonstrates your ability to combine **analytics**, **business reasoning**, and **machine learning**.
 
